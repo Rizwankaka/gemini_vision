@@ -1,5 +1,6 @@
+#loading environmnet variables from .env file 
 from dotenv import load_dotenv
-load_dotenv() ## load environmnet variables from .env file 
+load_dotenv() 
 
 # importing the packages 
 import streamlit as st 
